@@ -1,0 +1,4 @@
+base_path: C:\Users\Shree\Downloads\
+db_coll: XMLDATA
+db_conn_url: mongodb+srv://Komal:S24hd0IDRsWjnKHZ@cluster0.drkve.mongodb.net/test
+db_nm: API
